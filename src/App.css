@@ -30,12 +30,12 @@
     justify-content: center;
     align-items: center;
 }
-.table-row {
-    flex-direction: column;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+.table-row-true {
+    background-color: lightgreen;
+}
+.table-row-false {
+    background-color: lightcoral;
 }
 
 table {
